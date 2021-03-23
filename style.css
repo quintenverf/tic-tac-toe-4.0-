@@ -1,0 +1,26 @@
+.wrapper {
+  max-width: 200px;
+
+  padding-right: 10px;
+  padding-left: 10px;
+  border-style: solid;
+  font-family: "Permanent Marker", cursive;
+}
+
+.rechter {
+  float: left;
+  width: 33.33333%;
+  text-align: left;
+}
+
+.midden {
+  float: left;
+  width: 33.33333%;
+  text-align: left;
+}
+
+.linker {
+  float: left;
+  width: 33.33333%;
+  text-align: left;
+}
